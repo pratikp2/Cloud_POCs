@@ -1,0 +1,10 @@
+C:\My GitHub\Cloud Assignments\S3_Upload\S3_Upload\bin\Debug\S3_Upload.exe.config
+C:\My GitHub\Cloud Assignments\S3_Upload\S3_Upload\bin\Debug\S3_Upload.exe
+C:\My GitHub\Cloud Assignments\S3_Upload\S3_Upload\bin\Debug\S3_Upload.pdb
+C:\My GitHub\Cloud Assignments\S3_Upload\S3_Upload\bin\Debug\AWSSDK.dll
+C:\My GitHub\Cloud Assignments\S3_Upload\S3_Upload\bin\Debug\AWSSDK.pdb
+C:\My GitHub\Cloud Assignments\S3_Upload\S3_Upload\obj\Debug\S3_Upload.csprojAssemblyReference.cache
+C:\My GitHub\Cloud Assignments\S3_Upload\S3_Upload\obj\Debug\S3_Upload.csproj.CoreCompileInputs.cache
+C:\My GitHub\Cloud Assignments\S3_Upload\S3_Upload\obj\Debug\S3_Upload.csproj.CopyComplete
+C:\My GitHub\Cloud Assignments\S3_Upload\S3_Upload\obj\Debug\S3_Upload.exe
+C:\My GitHub\Cloud Assignments\S3_Upload\S3_Upload\obj\Debug\S3_Upload.pdb
